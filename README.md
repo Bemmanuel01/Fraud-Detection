@@ -1,6 +1,8 @@
 # Fraud-Detection Model Using Isolation Forest Algorithm
 The model aims in detecting fraudulent transactions by analyzing transaction patterns and identifying suspicious behavior. Effective fraud detection model helps protect financial institutions and their clients from financial losses, enhances security, and maintains trust in the system.
 
+The model uses the Isolation Forest Algorithm because due it's effective for detecting anomalies and outliers, which are common in fraud detection tasks.
+
 # Intoduction:
 This dataset contains credit card transactions made by European cardholders in the year 2023. It comprises over 550,000 records, and the data has been anonymized to protect the cardholders' identities. The primary objective of this dataset is to facilitate the development of fraud detection algorithms and models to identify potentially fraudulent transactions.
 
