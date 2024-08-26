@@ -1,4 +1,4 @@
-# Fraud-Detection Model Using XGBoost Algorithm
+# Fraud-Detection Model
 The model aims in detecting fraudulent transactions by analyzing transaction patterns and identifying suspicious behavior. Effective fraud detection model helps protect financial institutions and their clients from financial losses, enhances security, and maintains trust in the system.
 
 The model uses the multiple algorthms such as Logistic Regression, Randon Forest and XGBoostbecause due it's effective for detecting anomalies and outliers, which are common in fraud detection tasks.
@@ -21,8 +21,7 @@ This dataset contains credit card transactions made by European cardholders in t
 The model was evaluated using three different models: Logistic Regression, Random Forest, and XGBoost. Based on the results:
 
 - Logistic Regression: Provided a baseline performance but was less effective in capturing complex patterns in the data.
-- Random Forest: Improved performance over Logistic Regression by leveraging ensemble learning but still fell short in certain aspects.
-- XGBoost: Outperformed the other models, delivering the highest accuracy and robustness in detecting fraud. XGBoost's superior performance can be attributed to its advanced boosting techniques and ability to handle intricate data interactions.
+- Random Forest & XGBoost: Both improved performance over Logistic Regression by leveraging ensemble learning but still fell short in certain aspects. Delivering the highest accuracy and robustness in detecting fraud. Thus, theeir superior performance can be attributed to their advanced boosting techniques and ability to handle intricate data interactions.
 
 # Conclusion:
-- XGBoost is the most effective model the fraud detection task, offering the best balance of precision, recall, and overall accuracy. For optimal fraud detection, XGBoost is the recommended choice based on our evaluation.
+- Thus RandomForest and XGBoost are most effective model for the fraud detection task, offering the best balance of precision, recall, and overall accuracy. For optimal fraud detection, XGBoost is the recommended choice based on our evaluation.
